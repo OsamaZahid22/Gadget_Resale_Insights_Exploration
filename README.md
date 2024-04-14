@@ -52,7 +52,6 @@ A linear regression model demonstrated a weak to moderate positive relationship 
 ![RAM vs. Price](https://github.com/OsamaZahid22/Gadget_Resale_Insights_Exploration/blob/main/ram_vs_price.png)
 The upward trend of the regression line indicates a positive correlation: as the RAM size increases the normalized used price tends to rise as well. This suggests that devices with higher RAM are likely to be valued more in the resale market. 
 
-## Getting Started
 
 
 
